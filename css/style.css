@@ -65,6 +65,13 @@ body {
   margin-bottom: 20px;
 }
 
+.container2 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
 img {
   border-radius: 50%;
   background-color: #BF6B99;
@@ -102,3 +109,9 @@ img {
   margin: 0 auto;
 }
 
+.list {
+  font-family: Alegreya;
+  color: #BF6B99;
+  justify-content: center;
+  text-align: center; 
+}
