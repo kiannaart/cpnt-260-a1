@@ -44,3 +44,25 @@ body {
   padding: 1cm
 }
 
+img {
+  border-radius: 50%;
+  background-color: #BF6B99;
+}
+
+.image-content, text {
+  flex: 1 1 50%;
+  max-width: 50%;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.img1 {
+  margin-left: 30px;
+  width: 100%;
+  height: auto;
+  display: block;
+  max-width: 100px;
+  margin: 100px auto;
+}
+
+
