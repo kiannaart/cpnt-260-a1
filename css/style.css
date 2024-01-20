@@ -37,3 +37,10 @@ body {
   text-align: justify
 }
 
+#header {
+  font-family: Lemon;
+  text-align: center;
+  color: #BF6B99;
+  padding: 1cm
+}
+
