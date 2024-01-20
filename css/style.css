@@ -133,3 +133,11 @@ img {
   font-size: medium;
 }
 
+a:link {
+  color: #D698B7;
+}
+
+a:hover {
+  background-color: #BF6B99;
+
+}
