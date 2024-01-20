@@ -110,6 +110,13 @@ img {
   margin: 0 auto;
 }
 
+.h2-2 {
+  font-family: Playball;
+  color: #BF6B99;
+  text-align: center; 
+  font-size: 4ch;
+}
+
 .list {
   font-family: Lemon;
   color: #BF6B99;
