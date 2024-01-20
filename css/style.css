@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "Lemon";
+  src: url("fonts/Lemon-Regular.woff") format('woff');
+}
+
+@font-face {
+  font-family: "Lemon";
+}
+
+@font-face {
+  font-family: "Playball";
+  src: url("fonts/Playball-Regular.woff") format('woff');
+}
+
+@font-face {
+  font-family: "Playball";
+}
+
+@font-face {
+  font-family: "Alegreya";
+  src: url("fonts/Alegreya-Regular.woff") format('woff');
+}
+
+@font-face {
+  font-family: "Alegreya";
+  src: url("fonts/Alegreya-Italic.woff") format('woff');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Alegreya";
+}
+
+body {
+  margin: 1rem;
+  background-color: #E8E8E8;
+  text-align: justify
+}
+
