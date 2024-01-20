@@ -48,6 +48,7 @@ body {
   font-family: Playball;
   color: #BF6B99;
   text-align: center; 
+  font-size: 4ch;
 }
 
 .p1 {
@@ -110,8 +111,14 @@ img {
 }
 
 .list {
-  font-family: Alegreya;
+  font-family: Lemon;
   color: #BF6B99;
   justify-content: center;
-  text-align: center; 
+  font-size: 2ch;
+}
+
+.ol {
+  font-family: Alegreya;
+  color: #BF6B99;
+  font-size: medium;
 }
