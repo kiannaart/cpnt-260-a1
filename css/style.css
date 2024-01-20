@@ -32,7 +32,7 @@
 }
 
 body {
-  margin: 1rem;
+  margin: 3rem;
   background-color: #E8E8E8;
   text-align: justify
 }
@@ -42,6 +42,27 @@ body {
   text-align: center;
   color: #BF6B99;
   padding: 1cm
+}
+
+.h2 {
+  font-family: Playball;
+  color: #BF6B99;
+  text-align: center; 
+}
+
+.p1 {
+  font-family: Alegreya;
+  color: #BF6B99;
+  justify-content: center;
+  text-align: center; 
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
 }
 
 img {
@@ -65,4 +86,11 @@ img {
   margin: 100px auto;
 }
 
+.responsive-img {
+  width: 100%;
+  height: auto;
+  display: block;
+  max-width: 300px;
+  margin: 0 auto;
+}
 
